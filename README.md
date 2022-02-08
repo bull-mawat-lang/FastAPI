@@ -1,3 +1,3 @@
 # Install fastapi and uvicorn
 
-[Visit FastAPI link](https://fastapi.tiangolo.com/tutorial/)
+Visit FastAPI [link](https://fastapi.tiangolo.com/tutorial/)
